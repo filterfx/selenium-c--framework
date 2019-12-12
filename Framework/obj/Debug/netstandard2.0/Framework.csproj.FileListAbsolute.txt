@@ -1,0 +1,8 @@
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/bin/Debug/netstandard2.0/Framework.deps.json
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/bin/Debug/netstandard2.0/Framework.dll
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/bin/Debug/netstandard2.0/Framework.pdb
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/Debug/netstandard2.0/Framework.csprojAssemblyReference.cache
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/Debug/netstandard2.0/Framework.AssemblyInfoInputs.cache
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/Debug/netstandard2.0/Framework.AssemblyInfo.cs
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/Debug/netstandard2.0/Framework.dll
+/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/Debug/netstandard2.0/Framework.pdb
