@@ -4,6 +4,70 @@
     "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/Royale.Tests.csproj": {}
   },
   "projects": {
+    "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/Framework.csproj",
+        "packagesPath": "/Users/maliqali/.nuget/packages/",
+        "outputPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/maliqali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/Royale.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +91,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/Royale.csproj": {
+                "projectPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/Royale.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -53,17 +121,69 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
-            "Selenium.Support": {
-              "target": "Package",
-              "version": "[3.141.0, )"
-            },
-            "Selenium.WebDriver": {
-              "target": "Package",
-              "version": "[3.141.0, )"
-            },
             "nunit": {
               "target": "Package",
               "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/Royale.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/Royale.csproj",
+        "projectName": "Royale",
+        "projectPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/Royale.csproj",
+        "packagesPath": "/Users/maliqali/.nuget/packages/",
+        "outputPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/maliqali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/Framework.csproj": {
+                "projectPath": "/Users/maliqali/Documents/Projects/scripting-to-framework/Framework/Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
           "imports": [

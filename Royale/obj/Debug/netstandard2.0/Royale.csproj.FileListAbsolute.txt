@@ -1,8 +1,11 @@
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/bin/Debug/netstandard2.0/Royale.deps.json
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/bin/Debug/netstandard2.0/Royale.dll
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/bin/Debug/netstandard2.0/Royale.pdb
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/bin/Debug/netstandard2.0/Framework.dll
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/bin/Debug/netstandard2.0/Framework.pdb
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.csprojAssemblyReference.cache
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.AssemblyInfoInputs.cache
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.AssemblyInfo.cs
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.csproj.CopyComplete
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.dll
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale/obj/Debug/netstandard2.0/Royale.pdb

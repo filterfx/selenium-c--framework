@@ -6,8 +6,13 @@
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Royale.Tests.runtimeconfig.dev.json
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Royale.Tests.dll
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Royale.Tests.pdb
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Framework.dll
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Royale.dll
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Royale.pdb
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/bin/Debug/netcoreapp2.2/Framework.pdb
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.csprojAssemblyReference.cache
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.AssemblyInfoInputs.cache
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.AssemblyInfo.cs
+/Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.csproj.CopyComplete
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.dll
 /Users/maliqali/Documents/Projects/scripting-to-framework/Royale.Tests/obj/Debug/netcoreapp2.2/Royale.Tests.pdb
