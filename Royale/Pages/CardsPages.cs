@@ -10,7 +10,6 @@ namespace Royale.Pages
         {
             Map = new CardsPageMap(driver);
         }
-
         public CardsPage GoTo()
         {
             HeaderNav.GoToCardsPage();
